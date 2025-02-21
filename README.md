@@ -24,6 +24,10 @@ I couldn't use Drawer Navigator directly as it is always mounted on the top of t
   1. The value of "progress" is shared with DrawerNavigator as well as StackNavigator, on updation of this value, the animations for each of the stacks are written inside there components.
   2. The StackNavigator is wrapped around using a component named "ScreenLayoutWrapper" which controls the animation
 
+  ## Tab Navigator
+
+  As per mentioned in the requirements, I have added a nested bottom tab navigator for the Home and Contact components.
+
 # Conclusion
 
 This was a very beautiful and tricky animation to deal with, I have writted the typescripts for the files and included the basic folder structure aswell.
