@@ -32,4 +32,4 @@ As per mentioned in the requirements, I have added a nested bottom tab navigator
 
 # Conclusion
 
-This was a very beautiful and tricky animation to deal with, I have writted the typescripts for the files, included the basic folder structure, used Remix Icons for the icons, added support for different screen sizes and maintained all the StyleSheets.
+This was a very beautiful and tricky animation to deal with, I have written typescripts for all the files, included the basic folder structure, used Remix Icons for the icons, added support for different screen sizes and maintained all the StyleSheets.
