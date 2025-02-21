@@ -7,7 +7,7 @@ This project contains 2 types of navigators ->
 
 I couldn't use Drawer Navigator directly as it is always mounted on the top of the screen, thus created a custom drawer at the top level with position absolute with the list of all the items of the stack navigator.
 
-[![Demo]](https://drive.google.com/file/d/1C3zmNzwWxEUQclZM_O7wQctV5EmOSd77/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1C3zmNzwWxEUQclZM_O7wQctV5EmOSd77/view?usp=sharing)
 
 # Structure
 
