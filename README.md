@@ -30,4 +30,4 @@ I couldn't use Drawer Navigator directly as it is always mounted on the top of t
 
 # Conclusion
 
-This was a very beautiful and tricky animation to deal with, I have writted the typescripts for the files and included the basic folder structure aswell.
+This was a very beautiful and tricky animation to deal with, I have writted the typescripts for the files, included the basic folder structure, used Remix Icons for the icons, added support for different screen sizes and maintained all the StyleSheets.
